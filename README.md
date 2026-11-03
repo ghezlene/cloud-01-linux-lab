@@ -1,7 +1,7 @@
 ---
 
 [← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
-# Linux Administration Lab
+# Linux Administration Lab ![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat&labelColor=555555)
 
 > Learn Linux by operating, configuring, automating, and troubleshooting real systems.
 
