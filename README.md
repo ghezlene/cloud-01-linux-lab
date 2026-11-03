@@ -1,3 +1,6 @@
+---
+
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
 # Linux Administration Lab
 
 > Learn Linux by operating, configuring, automating, and troubleshooting real systems.
@@ -45,4 +48,6 @@ Planned scripts include:
 - User management helper.
 - Service health checker.
 - Log inspection utility.
+---
 
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
